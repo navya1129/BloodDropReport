@@ -1,0 +1,8 @@
+{
+  "name": "BloodDrop - Clinical Laboratory Diagnostic Interpretation Suite",
+  "description": "Professional healthcare web application for pathologists to ingest, analyze, and synthesize clinical laboratory reports with a calibrated diagnostic pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
